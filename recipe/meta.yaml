@@ -1,8 +1,8 @@
 {%set name = "pytimeparse" %}
-{%set version = "1.1.6" %}
+{%set version = "1.1.7" %}
 {%set compress_type = "tar.gz" %}
 {%set hash_type = "sha256" %}
-{%set hash_val = "74c52ae0db8a1d9055b9159bf09023ad5fba828b87ec47c0a9aed8129159ab46" %}
+{%set hash_val = "51b641bcd435e0cb6b9701ed79cf7ee97fa6bf2dbb5d41baa16e5486e5d9b17a" %}
 {%set build_num = "0" %}
 
 package:
